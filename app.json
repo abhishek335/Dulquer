@@ -1,7 +1,7 @@
 
 {
-  "name": "Dulquer",
-  "description": "Telegram group managing bot!",
+  "name": "Marie-2.0 English",
+  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": 
+  "repository": "hhttps://github.com/TGExplore/Marie-2.0-English",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,11 +21,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "828881595"
+      "value": "683538773"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "Wick_OO7"
+      "value": "ViruZs"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -41,15 +41,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "828881595 1218093469"
+      "value": "254318997 683538773 570400686 466337795"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "828881595 1218093469"
+      "value": "254318997 683538773 570400686 466337795"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "828881595 1218093469"
+      "value": "254318997 683538773 570400686 466337795"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
@@ -73,7 +73,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAACAgUAAxkBAAEFGb5e6QiqErPdzWF1w0VtgkF-d91QogACLgADu7pnMRCsXHP5uZlXGgQ"
+      "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE"
     }
   },
   "addons": [
